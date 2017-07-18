@@ -42,4 +42,4 @@ testem.log
 Thumbs.db
 
 #Oops
-api-key.ts
+/src/app/api-key.ts
